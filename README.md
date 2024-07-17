@@ -10,6 +10,6 @@
 <br></br>
 
 # DOCUMENTACIÓN
-Para poder correr los archivos js que vienen separados, es necesario tener instalado **Node.JS** para poderlos correr usando el comando `node <nombre-del-archivo.js` desde la terminal de comandos.
+Para poder correr los archivos js que vienen separados, es necesario tener instalado **Node.JS** para poderlos correr usando el comando `node nombre-del-archivo.js` desde la terminal de comandos.
 
 No hace falta ninguna descarga adicional para ejecutar la página de la actividad de DNI.
